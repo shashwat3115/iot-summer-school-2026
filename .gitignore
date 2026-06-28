@@ -1,0 +1,33 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+
+# Dependency files
+*.d
+
+# Executables
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
